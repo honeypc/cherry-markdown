@@ -30,6 +30,8 @@ export default {
   quote: '引用', // 引用
   size: '大小', // 大小
   color: '文字颜色&背景', // 文字颜色&背景
+  textColor: 'Text color',
+  backgroundColor: 'Background color',
   strikethrough: '删除线', // 删除线
   sub: '下标', // 下标
   sup: '上标', // 上标

@@ -30,6 +30,8 @@ export default {
   quote: 'Quote',
   size: 'Size',
   color: 'Text Color & Background',
+  textColor: 'Text color',
+  backgroundColor: 'Background color',
   strikethrough: 'Strikethrough',
   sub: 'Sub',
   sup: 'Sup',
